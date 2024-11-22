@@ -6,5 +6,9 @@
         "Semana 4/IMC/src",
         "Semana 4/Fruteria/src",
         "Semana 8/Partidos/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Semana 2/CalcularMedia/lib/biblioteca11.jar"
     ]
 }
