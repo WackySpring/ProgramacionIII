@@ -1,0 +1,5 @@
+Juan Pérez	555-1234	70
+María López	555-5678	65
+Carlos García	555-8765	80
+Ana Martínez	555-4321	55
+Luis Fernández	555-6789	90
